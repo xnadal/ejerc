@@ -62,6 +62,8 @@ int main()
 
    cout << "La suma de los numeros introducidos es: " << acumulado << endl; 
    
+
+// FIN
    cout <<"!! ADIOS !!" << endl ;
    // system("PAUSE");
 
