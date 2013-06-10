@@ -79,7 +79,7 @@ int main()
 
 
   // CREAR LIBRO
-  cin.ignore();
+  // cin.ignore();
   cout << "Descripcion: ";
   cin.getline(descripcion,30,'\n');
   cout << "Paginas: "; cin >> paginas ;
